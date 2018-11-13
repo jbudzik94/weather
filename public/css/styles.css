@@ -1,0 +1,35 @@
+html,body{
+    height: 100%;
+}
+
+#weatherFor{
+    font-size: 35px;
+}
+
+#temperature{
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.top-gap{
+    padding-top: 80px;
+}
+
+.small-top-gap{
+    padding-top: 10px;
+}
+
+.container-fluid{
+    width: 100%;
+    background-color: white;
+    padding: 0 0 0 0;
+}
+#form{
+    height: 140px;
+    padding-top: 30px;
+}
+
+.error{
+    font-size: 13px;
+}
+
